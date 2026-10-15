@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Runtime data (SQLite auto-initializes on first start)
+hostelhub.db
+hostelhub.db-shm
+hostelhub.db-wal
+
+# Uploads (evidence photos, QR scans)
+uploads/
+
+# Secrets / local env
+.env
+
+# Logs
+*.log
+
+# Workspace metadata
+.freebuff/
